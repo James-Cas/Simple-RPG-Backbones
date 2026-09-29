@@ -1,0 +1,32 @@
+{
+    "dimension_rule": {
+        "names": [
+            "Dimension Rule",
+            "DR"
+        ],
+        "short": [
+            "Created by Someone",
+            "Eassy on the theory that we live in functions"
+        ]
+    },
+    "changes_in_speed": {
+        "names": [
+            "Changes in Speed",
+            "CS"
+        ],
+        "short": [
+            "Created by Someone",
+            "Eassy add onto Dimesion Rule"
+        ]
+    },
+    "holy_text": {
+        "names": [
+            "Holy Text",
+            "HT"
+        ],
+        "short": [
+            "Placeholder",
+            "Placeholder"
+        ]
+    }
+}

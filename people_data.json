@@ -1,0 +1,38 @@
+{
+    "james": {
+        "nick-names": [
+            "James",
+            "Smith"
+        ],
+        "house": "Fate",
+        "job": "Read",
+        "information": [
+            "He likes to read",
+            "Placeholder"
+        ]
+    },
+    "tom": {
+        "nick-names": [
+            "Tom",
+            "Paul"
+        ],
+        "house": "Royse City",
+        "job": "Make",
+        "information": [
+            "He bakes food",
+            "Placeholder"
+        ]
+    },
+    "alex": {
+        "nick-names": [
+            "Alex",
+            "Sam"
+        ],
+        "house": "Nevada",
+        "job": "Music",
+        "information": [
+            "He likes to make music",
+            "Placeholder"
+        ]
+    }
+}

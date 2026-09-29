@@ -1,0 +1,47 @@
+{
+    "royse_city": {
+        "names": [
+            "Royse City",
+            "RC"
+        ],
+        "facts": [
+            "Founded in 1886",
+            "Located in Rockwall County"
+        ],
+        "population": 20000,
+        "neighbors": {
+            "fate": 4,
+            "nevada": 10
+        }
+    },
+    "fate": {
+        "names": [
+            "Fate",
+            "FT"
+        ],
+        "facts": [
+            "Fast growing city",
+            "East of Dallas"
+        ],
+        "population": 25000,
+        "neighbors": {
+            "royse_city": 4,
+            "nevada": 8
+        }
+    },
+    "nevada": {
+        "names": [
+            "Nevada",
+            "NV"
+        ],
+        "facts": [
+            "Small rural town",
+            "Located in Collin County"
+        ],
+        "population": 1500,
+        "neighbors": {
+            "royse_city": 10,
+            "fate": 8
+        }
+    }
+}
